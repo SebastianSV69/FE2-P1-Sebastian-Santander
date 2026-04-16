@@ -1,0 +1,10 @@
+Etapa 1 Creacion de pagina inicial
+"Necesito que me ayudes a generar un sitio web sitio debe estar orientado a 
+mostrar un notebook, destacar sus características y generar interés en potenciales usuarios. 
+Se espera una presentación clara, visualmente atractiva y organizada. 
+Construye una primera versión del sitio que incluya:nombre del producto, breve descripción, una estructura 
+básica del sitio y una sección destacada sobre un notebook"
+Se busca crear una pagina inicial para tener una idea del producto y la presentacion de este mismo.
+Esto se consigue ya que la pagina inicial creada cumple con las expectativas, se continua a una mejora visual
+
+Etapa 2 - Mejora visual de pagina inicial
