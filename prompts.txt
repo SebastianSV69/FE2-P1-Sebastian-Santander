@@ -8,3 +8,18 @@ Se busca crear una pagina inicial para tener una idea del producto y la presenta
 Esto se consigue ya que la pagina inicial creada cumple con las expectativas, se continua a una mejora visual
 
 Etapa 2 - Mejora visual de pagina inicial
+"Ahora necesito que la pagina sea mucho mejor visualmente, utiliza el style.css para 
+mejorar el diseño visual y no opacar al html que este sera unicamente para la informacion de la pagina, 
+aplicar estilos más trabajados, 
+mejorar la distribución del contenido y lograr una apariencia moderna."
+Se busca mejorar el diseño visual de la pagina para que sea visualmente atractiva y comodo.
+Esto fue logrado medianamanete ya que solo se hacen cambios simples sin ningun cambio radical o moderno.
+
+Etapa 3 - Incorporación de contenido
+"Esta vez incorporaremos mas informacion los usuarios 
+necesitan mas informacion mas que solo los componentes basicos de la pc, 
+Debes agregar nuevas secciones, por ejemplo:
+características principales,beneficios del producto,especificaciones técnicas,
+posibles usos o ventajas frente a otros productos."
+Se busca brindar al cliente mucha mas informacion sobre la pc para no dejar nada a la imaginacion.
+Esto se logra muy vagamente ya que este no brinda mucha informacion extra.
