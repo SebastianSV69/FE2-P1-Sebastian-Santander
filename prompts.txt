@@ -23,3 +23,9 @@ características principales,beneficios del producto,especificaciones técnicas,
 posibles usos o ventajas frente a otros productos."
 Se busca brindar al cliente mucha mas informacion sobre la pc para no dejar nada a la imaginacion.
 Esto se logra muy vagamente ya que este no brinda mucha informacion extra.
+
+Etapa 4 - adaptacion a dispositivos moviles
+"ahora la pagina debe estar adaptada a dispositivos moviles, 
+esta debe asegurar buena legibilidad, evitar problemas de distribucion o superposicion"
+Se busca adaptar la pagina web para dispositivos moviles, esto para maximizar el flujo de usuarios a la pagina sin limitacion por el dispositivos
+Esto se logra ajustando el diseño al entrar con dispositivos de baja resolucion
