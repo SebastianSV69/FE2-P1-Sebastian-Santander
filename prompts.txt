@@ -29,3 +29,9 @@ Etapa 4 - adaptacion a dispositivos moviles
 esta debe asegurar buena legibilidad, evitar problemas de distribucion o superposicion"
 Se busca adaptar la pagina web para dispositivos moviles, esto para maximizar el flujo de usuarios a la pagina sin limitacion por el dispositivos
 Esto se logra ajustando el diseño al entrar con dispositivos de baja resolucion
+
+Etapa 5 - Como ultima etapa debes debes incorporar una sección tipo ficha de producto o comparativa, 
+que incluya:características organizadas (por ejemplo: tabla o listado),
+al menos 2–3 atributos técnicos relevantes, una presentación clara y ordenada de la información.
+Se busca implementar mas informacion tecnica para una descripción de mas calidad y clara para el usuario.
+Esto no se logra ya que la IA repite informacion ya especificado sin agregar nueva informacion

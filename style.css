@@ -172,3 +172,33 @@ footer p {
         font-size: 0.8em;
     }
 }
+/* Product Comparison Table */
+.product-comparison {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.product-comparison th, .product-comparison td {
+    border: 1px solid #ddd;
+    padding: 15px;
+    text-align: center;
+    font-size: 1em;
+}
+.product-comparison th {
+    background-color: #0078d7;
+    color: white;
+    font-weight: bold;
+}
+.product-comparison tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+.product-comparison tr:hover {
+    background-color: #e3f2fd;
+}
+.product-comparison td {
+    color: #333;
+}
